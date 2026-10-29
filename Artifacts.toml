@@ -1,0 +1,36 @@
+[[ovni]]
+arch = "aarch64"
+git-tree-sha1 = "17b5280fea108b2cea424a46a4ce7432df27bdbe"
+libc = "glibc"
+os = "linux"
+
+    [[ovni.download]]
+    sha256 = "8a1ea831a96877b94ce0a8ac691bc3efbdf2371858e75852f70546a4d82dfa8a"
+    url = "https://github.com/LeixB/ovni_jll.jl/releases/download/ovni-v1.14.0+0/ovni.v1.14.0.aarch64-linux-gnu.tar.gz"
+[[ovni]]
+arch = "powerpc64le"
+git-tree-sha1 = "98787869954c22132f771faacb0f0ee4f779d5d8"
+libc = "glibc"
+os = "linux"
+
+    [[ovni.download]]
+    sha256 = "1629c6515a23f73853f00712d4631cc4d1efff05e28be9241246bfcce2c367e7"
+    url = "https://github.com/LeixB/ovni_jll.jl/releases/download/ovni-v1.14.0+0/ovni.v1.14.0.powerpc64le-linux-gnu.tar.gz"
+[[ovni]]
+arch = "riscv64"
+git-tree-sha1 = "50805ced0efdbf5d2dad2e933248e60b93bbcdea"
+libc = "glibc"
+os = "linux"
+
+    [[ovni.download]]
+    sha256 = "476e5b3796dde765cb981b6c3cb2d9b9088752a0eca632f34624853916ec0aa3"
+    url = "https://github.com/LeixB/ovni_jll.jl/releases/download/ovni-v1.14.0+0/ovni.v1.14.0.riscv64-linux-gnu.tar.gz"
+[[ovni]]
+arch = "x86_64"
+git-tree-sha1 = "9a2ef28070b1139deb7959b0e194347a59c41a22"
+libc = "glibc"
+os = "linux"
+
+    [[ovni.download]]
+    sha256 = "a69ccca629a2b8d3642f7ff2ca72dc4f8037eb5170e18a04902ba1fc7b45cead"
+    url = "https://github.com/LeixB/ovni_jll.jl/releases/download/ovni-v1.14.0+0/ovni.v1.14.0.x86_64-linux-gnu.tar.gz"
